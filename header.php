@@ -8,14 +8,8 @@
 </head>
 <body <?php body_class(); ?>>
 
+<!-- social navigation -->
 
-<nav class="site-nav">
-
-  <div class="wrapper">
-
-  <div class="row">
-    <div class="col-12">
-    <div class="social-nav">
       <?php 
     
           $args = array(
@@ -23,50 +17,25 @@
           );
         ?>
         <?php wp_nav_menu(  $args  ) ?>
-    </div>
-    </div>
 
-  </div>
+<!-- /social navigation -->
 
-  </div><!-- /wrapper -->
-</nav>
-
-
-
-
-
-<!-- site header -->
-  <header>
-      <div class="wrapper">
   
-  <h1><a href="<?php echo home_url(); ?>">
-  <?php bloginfo('name'); ?></a></h1>
-  
-  <h2><?php bloginfo('description') ?></h2>
-  
+<!-- home link? -->
+  <a href="<?php echo home_url(); ?>">
+  <?php bloginfo('name'); ?></a>
+<!-- /home link? -->  
 
-  <div class="site-nav">
-    <div class="row">
-      
-        <div class="col-12">
-        <div class="header-nav">
 
+<!-- main navigation menu -->
+  <?php bloginfo('description') ?>
+  
         <?php 
     
           $args = array(
             'theme_location' => 'header-nav'
           );
         ?>
-        <?php wp_nav_menu(  $args  ) ?>
-
-       </div>
-      </div>
-      
-    </div>
-  </div>
-
-
-      </div><!-- /wrapper -->
-  </header>
-
-<div class="wrapper">
+  <?php wp_nav_menu(  $args  ) ?>
+<!-- /main navigation menu -->
+  

@@ -1,19 +1,12 @@
-<?php  
-  
-get_header();
+<?php get_header();
 
   if (have_posts()) :
     while (have_posts()) : the_post(); 
 
-  the_content();
-?>
+the_content(); ?>
 
 
-    Front-page.php
-    <br>
-    Right here ya'll!
-<?php   
-  endwhile;
+<?php endwhile;
 
   else : 
     echo '<p>Page Not Found. Please try again</p>';
@@ -21,12 +14,7 @@ get_header();
   endif; ?>
 
 
-
-<?php 
-
-get_footer();
-
-?>
+<?php get_footer(); ?>
 
 
 
