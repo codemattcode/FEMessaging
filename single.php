@@ -1,4 +1,4 @@
-<!-- BLOG POSTS (INDIVIDUAL) -->
+<!-- INDIVIDUAL BLOG POSTS TEMPLATE -->
 <?php    
 get_header();
 
@@ -8,14 +8,14 @@ get_header();
 
 
 
-<article>
+
 <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
 
 <!-- add feature image banner -->
 <?php the_post_thumbnail('banner-image'); ?>
 
-<p><?php the_content(); ?></p>
-</article>
+<?php the_content(); ?>
+
 
 
 
@@ -32,7 +32,7 @@ get_header();
   endwhile;
 
   else : 
-    echo '<p>Page Not Found</p>';
+    echo '<p>Oops! 404 : Page Not Found</p>';
 
   endif;
 

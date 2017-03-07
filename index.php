@@ -1,4 +1,4 @@
-
+<!-- DO NOT EDIT -->
 
 <?php  
   
@@ -14,7 +14,7 @@ get_header();
   endwhile;
 
   else : 
-    echo '<p>Page Not Found</p>';
+    echo '<p>Oops! 404 : Page Not Found</p>';
 
   endif;
 

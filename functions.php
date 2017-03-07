@@ -1,7 +1,7 @@
 <?php 
   
   function custom_wp_resources() {
-// ************************** LOCATE STYLESHEET **********************
+//  LOCATE STYLESHEET 
     wp_enqueue_style('style-name', get_stylesheet_uri() );
   }
 
@@ -22,7 +22,7 @@ function custom_excerpt_wordcount() {
 add_filter('excerpt_length', 'custom_excerpt_wordcount');
 
 // Theme setup
-function customTheme_setup() {
+function blankTheme_setup() {
 
 
 
@@ -34,9 +34,8 @@ function customTheme_setup() {
 
 
 
-
-// ************************** ADD NAVIGATION MENUS *********************
-  // Navigation Menus
+// Navigation Menus
+// Configure in Wordpress dashboard > Appearance > Menus
 register_nav_menus(array(
   'social-nav' => __( 'Social Navigation' ),
   'header-nav' => __( 'Header Navigation' ),
@@ -79,7 +78,7 @@ function get_top_ancestor_id() {
 
 
 
-// ************************** ADD FEATURED IMAGE **********************
+
   // Add featured image support
   add_theme_support('post-thumbnails');
   // width, height, hard-crop
@@ -89,17 +88,10 @@ function get_top_ancestor_id() {
 }
 
 
-
-
-
-
   
 
 // initialise theme
-add_action('after_setup_theme', 'customTheme_setup');
-
-
-
+add_action('after_setup_theme', 'blankTheme_setup');
 
 
 

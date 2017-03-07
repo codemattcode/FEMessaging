@@ -1,13 +1,23 @@
-<?php 
-  $args = array(
-  'theme_location' => 'footer-nav' ); 
-?>
+<!-- Uncomment to use -->
 
-<?php wp_nav_menu(  $args  ) ?> 
+<!-- Footer Navigation -->
+  <!-- <?php 
+      $args = array(
+        'theme_location' => 'footer-nav'
+      );
+    ?>
+  <?php wp_nav_menu(  $args  ) ?>  -->
 
-<?php bloginfo('name'); ?> - &copy; <?php echo date('Y') ?>
+
+
+<!-- Copyright information -->
+<div>
+    <?php bloginfo('name'); ?>
+  
+  &copy; <?php echo date('Y') ?>
+</div>
+
 
 <?php wp_footer(); ?>
-
 </body>
 </html>

@@ -1,20 +1,21 @@
-<!-- BLOG PAGE - POST LIST -->
+<!-- BLOG PAGE INDEX / POSTS LIST TEMPLATE -->
 
 <article>
 
-
+<div>
 <!-- add post title link / title -->
       <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
-
+</div>
+<div>
 <!-- add feature image thumbnail -->
-      <div><a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('small-thumbnail'); ?></a>
-      </div>
-    
-
+      <a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('small-thumbnail'); ?></a>
+     
+</div>
+<div>    
 <!-- add post excerpt/content -->
-    <p><?php echo get_the_excerpt(); ?>
+    <?php echo get_the_excerpt(); ?>
       <a href="<?php the_permalink(); ?>">Read More &raquo;</a>
-    </p>
+</div>    
     
 
 </article>
