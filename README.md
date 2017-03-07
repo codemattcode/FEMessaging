@@ -21,3 +21,4 @@
 ## Wordpress Dashboard > Settings > Permalinks > Select 'Post Name'
 
 ## Add HTML tags and CSS classes to taste.
+
