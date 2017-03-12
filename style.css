@@ -336,10 +336,10 @@ ul {
     font-size: 0.8em; }
     @media screen and (max-width: 850px) {
       ul a:link, ul a:visited {
-        font-size: 0.7em; } }
+        font-size: 0.6em; } }
     @media screen and (max-width: 320px) {
       ul a:link, ul a:visited {
-        font-size: 0.5em; } }
+        font-size: 0.4em; } }
 
 header {
   text-align: left;

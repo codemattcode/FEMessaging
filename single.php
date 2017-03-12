@@ -6,8 +6,10 @@ get_header();
     while (have_posts()) : the_post(); 
 ?>
 
-
-
+<div class="wrapper">
+<div class="row">
+<div class="col-12">
+<div class="blog-push-down-comp">
 
 <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
 
@@ -16,8 +18,10 @@ get_header();
 
 <?php the_content(); ?>
 
-
-
+</div>
+</div><!-- col-12 -->
+</div><!-- /row -->
+</div><!-- /wrapper -->
 
 
 
