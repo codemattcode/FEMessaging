@@ -1,5 +1,3 @@
-<!-- THIS FILE APPLIES WHEN YOU CREATE A PAGE CALLED 'SERVICES' IN THE WORDPRESS DASHBOARD. USE THIS PATTERN TO CREATE AND BUILD ADDITIONAL UNQIUE PAGES-->
-
 <!-- Header including Meta Info -->
 <?php  
   
@@ -10,14 +8,9 @@ get_header();
 // Page Content
   the_content();
 ?>
-<!-- helper content -->
-<!-- <div class="theme-tips"><p>This is a 'Unique' Page : Services (page-services.php) </p></div> -->
 
-
-
-<!-- live content -->
-<!-- *************************************************************************************************************************************************************** -->
-
+<!-- HTML PAGE CONTENT -->
+<!-- ************************************************************************************************************************************************************ -->
 
 <section class="shine">
 <div class="wrapper">
