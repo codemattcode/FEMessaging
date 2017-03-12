@@ -768,6 +768,8 @@ p {
  margin-top: 150px; 
     }
 }
-
-style="font-size: 1.375em; font-weight: 300;
+.blog-txt {
+  font-size: 1.375em; 
+  font-weight: 300;
+}
 
