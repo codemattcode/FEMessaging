@@ -22,7 +22,7 @@ get_header();
 
 <div class="row">
   <div class="col-12 center">
-<img class="rina-pic" src="img/legacy/rina.jpg">
+<img class="rina-pic" src="../img/legacy/rina.jpg">
   </div>
   <div class="col-12">
 <p>Come rain or shine, we all have principles that we steadfastly stick to, don't we?</p>
