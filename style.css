@@ -759,4 +759,15 @@ p {
 
 
 
+/*  **** BLOG ******  */
+.blog-push-down-comp:first-of-type {
+  margin-top: 100px;
+}
+@media screen and (max-width: 850px) {
+.blog-push-down-comp:first-of-type {
+ margin-top: 150px; 
+    }
+}
+
+style="font-size: 1.375em; font-weight: 300;
 
