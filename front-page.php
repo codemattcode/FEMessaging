@@ -42,7 +42,12 @@ get_header();
 <p class="blues-grp blues__txt">Every start-up goes through this.</p>
 <p class="blues-grp blues__txt">Lack of quality customers?<br> No money from investors?<br> You're not alone.</p>
 
-<p class="safe"><img class="safe-icon" src="img/icons-drawn/safe.png"></p>
+<p class="safe">
+
+<img class="safe-icon" src="<?php echo get_template_directory_uri();?>/img/icons-drawn/safe.png">
+
+</p>
+
 <p class="blues-grp blues__txt">The #1 start-up problem?</p>
 <p class="blues-grp blues__txt blues__txt-offkey">Off-key messaging</p>
 </div>
@@ -132,7 +137,7 @@ get_header();
 <!-- *************** DOWNLOAD PLAYBOOK CARD ********************* -->
 <div class="col-2 center-on-mobile">
 <div class="solution-grp card-download-playbook">
-<p><img alt="Messaging Playbook Download" src="img/icons-drawn/chart.png"></p>
+<p><img alt="Messaging Playbook Download" src="<?php echo get_template_directory_uri();?>/img/icons-drawn/chart.png"></p>
 <p class="solution-grp"><a class="solution__push-up" href="">Download free report</a> on how to <a href="">create a Playbook</a></p>
 </div>
 </div><!-- /col-6 -->
@@ -182,7 +187,7 @@ get_header();
   <div class="col-4">
 <div class="playbook-grp card card-engage">
 <div class="icon">
-    <img alt="FE Messaging Playbook" src="img/icons-gradient/clock.png">
+    <img alt="FE Messaging Playbook" src="<?php echo get_template_directory_uri();?>/img/icons-gradient/clock.png">
 </div>
 <h3 class="playbook-grp card-engage__tite">Engage with your customers</h3>
 <p class="playbook-grp playbook__txt card-engage__txt">By talking about your benefits and experience, not just the product</p>
@@ -192,7 +197,7 @@ get_header();
   <div class="col-4">
 <div class="playbook-grp card card-stand-out">
 <div class="icon">
-    <img alt="FE Messaging Playbook" src="img/icons-gradient/bullhorn.png">
+    <img alt="FE Messaging Playbook" src="<?php echo get_template_directory_uri();?>/img/icons-gradient/bullhorn.png">
 </div>
 <h3 class="playbook-grp card-stand-out__title">Stand out above the noise</h3>
 <p class="playbook-grp playbook__txt card-stand-out__txt">With unique positioning, brand identity and character</p>
@@ -202,7 +207,7 @@ get_header();
   <div class="col-4">
 <div class="playbook-grp card card-close-sales">
 <div class="icon">
-    <img alt="FE Messaging Playbook" src="img/icons-gradient/sack.png">
+    <img alt="FE Messaging Playbook" src="<?php echo get_template_directory_uri();?>/img/icons-gradient/sack.png">
 </div>
 <h3 class="playbook-grp card-close-sales__title">Close your sales</h3>
 <p class="playbook-grp playbook__txt card-close-sales__txt">Loaded with tactics so your prepared, no matter what obstacles an investor or customers throws at you</p>
@@ -288,7 +293,7 @@ perspective</p>
   <div class="col-4">
 <div class="messaging__grp card card-multi-step">
 <div class="icon">
-    <img alt="FE Messaging Playbook" src="img/sitckman/trio.png">
+    <img alt="FE Messaging Playbook" src="<?php echo get_template_directory_uri();?>/img/sitckman/trio.png">
 </div>
 <h3 class="messaging__grp">A multi-step process</h3>
 <p class="messaging__grp messaging__txt">Involving tools and framework to uncover your history and thinking as well as bubble up ideas and insights</p>
@@ -298,7 +303,7 @@ perspective</p>
   <div class="col-4">
 <div class="messaging__grp">
 <div class="icon">
-    <img alt="FE Messaging Playbook" src="img/sitckman/whiteboard.png">
+    <img alt="FE Messaging Playbook" src="<?php echo get_template_directory_uri();?>/img/sitckman/whiteboard.png">
 </div>
 <h3 class="messaging__grp">Deep dive analysis</h3>
 <p class="messaging__grp messaging__txt">This includes your company, product and market place</p>
@@ -308,7 +313,7 @@ perspective</p>
   <div class="col-4">
 <div class="messaging__grp">
 <div class="icon">
-    <img alt="FE Messaging Playbook" src="img/sitckman/trophy.png">
+    <img alt="FE Messaging Playbook" src="<?php echo get_template_directory_uri();?>/img/sitckman/trophy.png">
 </div>
 <h3 class="messaging__grp">Your 11+ document</h3>
 <p class="messaging__grp messaging__txt">This includes unique selling point, mission statement, vision, sales tactics, tag line, back brand story and so much more <a class="messaging__txt--link" href="page-services.php">(see services)</a></p>
@@ -356,7 +361,7 @@ perspective</p>
   <div class="col-4 center-on-mobile">
 <div class="card-download-playbook">
 <p><a class="downloader-txt--link" href="">
-<img class="padder" alt="Messaging Playbook Download" src="img/icons-drawn/chart.png"></a></p>
+<img class="padder" alt="Messaging Playbook Download" src="<?php echo get_template_directory_uri();?>/img/icons-drawn/chart.png"></a></p>
 <p class="downloader-txt"><a class="downloader-txt--link" href="">Download free report on a how to write your own 'Messaging Playbook'</a></p>
 </div>
   </div><!-- col-4 -->
