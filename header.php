@@ -56,7 +56,11 @@
 
 <div class="col-3 center-on-mobile">
 <h1 class="brand-name__title"><!-- <a href="http://fesolutions.com"></a> -->
-  <img src="img/logo40.png"><a href="<?php echo home_url(); ?>">
+  
+  <img src="<?php echo get_template_directory_uri();?>/img/logo40.png"/>
+
+
+  <a href="<?php echo home_url(); ?>">
     <?php bloginfo('name'); ?></a>
 </h1>
 </div><!-- /col-6 -->
