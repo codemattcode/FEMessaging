@@ -724,6 +724,9 @@ p {
 .center {
   width: 100%;
   text-align: center; }
+.right {
+  float: right;
+}
 
 .card-download-playbook {
   text-align: center; }

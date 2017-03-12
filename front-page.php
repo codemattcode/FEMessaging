@@ -316,7 +316,7 @@ perspective</p>
     <img alt="FE Messaging Playbook" src="<?php echo get_template_directory_uri();?>/img/sitckman/trophy.png">
 </div>
 <h3 class="messaging__grp">Your 11+ document</h3>
-<p class="messaging__grp messaging__txt">This includes unique selling point, mission statement, vision, sales tactics, tag line, back brand story and so much more <a class="messaging__txt--link" href="page-services.php">(see services)</a></p>
+<p class="messaging__grp messaging__txt">This includes unique selling point, mission statement, vision, sales tactics, tag line, back brand story and so much more <a class="messaging__txt--link" href="/services">(see services)</a></p>
 </div>
   </div><!-- /col-4 -->
 </div><!-- /row -- >
