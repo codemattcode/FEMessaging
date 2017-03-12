@@ -40,7 +40,7 @@ get_header();
 <h2 class="about-title">BACK STORY</h2>
 <h3 class="about-quote">"Is life not a thousand times too short for us to bore ourselves"</h3>
 <p class="about-quote-name">Frederick Nietze</p>
-<img class="about-img" src="img/legacy/spock.jpg">
+<img class="about-img" src="../img/legacy/spock.jpg">
 </div><!-- /col-12 -->
 </div><!-- /row -->
 </div><!-- /wrapper -->
@@ -71,7 +71,7 @@ get_header();
 <h2 class="about-title">APPROACH</h2>
 <h3 class="about-quote">"Tell the truth but make it fascinating"</h3>
 <p class="about-quote-name">David Oligilvy</p>
-<img class="about-img" src="img/legacy/lion-head.jpg">
+<img class="about-img" src="../img/legacy/lion-head.jpg">
 </div><!-- /col-12 -->
 </div><!-- /row -->
 
@@ -116,7 +116,7 @@ FEROCIOUSLY ENGAGING Messaging</p>
 <h2 class="about-title">RESUME IN DOTS</h2>
 <h3 class="about-quote">"You can't connect the dots looking forward; you can only connect them looking backwards"</h3>
 <p class="about-quote-name">Steve Jobs</p>
-<img class="about-img" src="img/legacy/steve-jobs.jpg">
+<img class="about-img" src="../img/legacy/steve-jobs.jpg">
 </div><!-- /col-12 -->
 </div><!-- /row -->
 
