@@ -14,7 +14,7 @@
 
 ## Wordpress Dashboard > Appearance > Menus
 ### 3 Menu placeholders are rendered via the functions.php file. 'Header', 'Footer' and 'Social'
-#### Create and organise the pages/menus here.
+
 
  
 
