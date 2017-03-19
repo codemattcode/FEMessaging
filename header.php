@@ -3,11 +3,12 @@
 <head>
   <meta charset="<?php  bloginfo('charset'); ?>">
   <meta name="viewport" content="width=device-width">
-  <meta name="description" content="The messaging playbook will help you engage with your customers, stand out above the noise and close your sales">
+  <meta name="description" content="Ferociously Engaging Solutions for start-ups. Brand storytelling PR and marketing strategy content">
+  <meta name="keywords" content="start-up, traction, messaging, playbook, brand story telling, sales pitch, PR, public relations, copywriting, content strategy, customer adoption, marketing strategy, brand positioning, disruption, tech, technology">
   <link rel="shortcut icon" href="img/favicon.ico">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-  <title><?php bloginfo('name'); ?></title>
+  <title>Brand storytelling for start-ups, with The 'Messaging playbook'</title>
   
   <?php wp_head(); ?>
 
@@ -22,29 +23,15 @@
 <![endif]-->
 <!-- Picture Icons by Freepik.com -->
 
-<!-- ********************************* -->
-<!-- ******LET THERE BE JUSTICE******* -->
-<!-- ********************************* -->
 
-
-<!-- Uncomment to use -->
-<!-- Social Navigation Menu -->
-<!-- <?php 
-    $args = array(
-      'theme_location' => 'social-nav'
-    );
-?> -->
-
-<!-- live content -->
-<!-- *************************************************************************************************************************************************************** -->
-
+<!-- ******************* HEADER ******************* -->
 
 <header class="brand">
 <div class="wrapper">
 <div class="row">
 
 <div class="col-3 center-on-mobile">
-<h1 class="brand-name__title"><!-- <a href="http://fesolutions.com"></a> -->
+<h1 class="brand-name__title"><!-- <a href="http://fesolutions.me"></a> -->
   
   <img src="<?php echo get_template_directory_uri();?>/img/logo40.png"/>
 
@@ -79,4 +66,6 @@
 </header>
 
 
-  
+<!-- ******************************************* -->
+<!-- *** Design and Code by codeMattCode.com *** -->
+<!-- ******************************************* -->  

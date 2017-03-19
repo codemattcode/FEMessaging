@@ -1,11 +1,4 @@
-<!-- Uncomment to use -->
-<!-- Footer Navigation -->
-<!-- <?php 
-    $args = array(
-      'theme_location' => 'footer-nav'
-    );
-  ?>
-<?php wp_nav_menu(  $args  ) ?>  -->
+
 
 
 <div class="wrapper">
@@ -20,7 +13,7 @@
 </div><!-- /col-6 -->
 <div class="col-6">
   <div class="right center-on-mobile">
-  <a href="">Designed and Built by WebPrintAudio</a>
+  <a class="cmc" href="http://codemattcode.com/">Site by codeMattCode.com</a>
   </div>
 </div>
 
@@ -33,9 +26,6 @@
 
 
 
-<!-- ********************************* -->
-<!-- ******LET THERE BE LIGHT******* -->
-<!-- ********************************* -->
 <!--[if lt IE 9]>
   <script src="http://code.jquery.com/jquery-1.12.0.min.js"></script>
   <script src="js/polyfill/ie-love.js"></script>
@@ -54,6 +44,6 @@
 
 </body>
 </html>
-<!-- ********************************* -->
-<!-- ****** made by @WebPrintAudio ******* -->
-<!-- ********************************* -->
+<!-- ******************************************* -->
+<!-- *** Design and Code by codeMattCode.com *** -->
+<!-- ******************************************* -->

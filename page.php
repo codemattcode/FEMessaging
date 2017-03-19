@@ -1,6 +1,3 @@
-<!-- THIS IS THE GENERIC PAGE FILE AND APPLIES TO ALL NEWLY CREATED PAGES (IN THE WORDPRESS DASHBOARD) IF NO UNIQUE PAGE FILES ARE PROVIDED. -->
-
-
 <!-- Header including Meta Info -->
 <?php  
   
@@ -32,3 +29,7 @@ get_header();
 
 
 
+
+<!-- ******************************************* -->
+<!-- *** Design and Code by codeMattCode.com *** -->
+<!-- ******************************************* -->

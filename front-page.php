@@ -11,15 +11,7 @@ get_header();
   the_content();
 ?>
 
-  <!-- helper content -->
-<!-- <div class="theme-tips"><p>This is the front (Static) page (front-page.php)</p></div> -->
-
-
-<!-- live content -->
-<!-- *************************************************************************************************************************************************************** -->
-
-
-
+  
 <!--
   *****************
   * =BLUES BLUES BLUES BLUES BLUES BLUES BLUES BLUES BLUES 
@@ -133,6 +125,7 @@ get_header();
 <p class="solution__grp solution__txt--cta">Either way, let's talk. <a class="contact__cta" href="mailto:">Contact Me</a></p>
 </div>
 </div><!-- /col-6 -->
+
 
 <!-- *************** DOWNLOAD PLAYBOOK CARD ********************* -->
 <div class="col-2 center-on-mobile">
@@ -403,4 +396,8 @@ perspective</p>
 <?php get_footer(); ?>
 
 
+
+<!-- ******************************************* -->
+<!-- *** Design and Code by codeMattCode.com *** -->
+<!-- ******************************************* -->
 

@@ -37,9 +37,9 @@ function blankTheme_setup() {
 // Navigation Menus
 // Configure in Wordpress dashboard > Appearance > Menus
 register_nav_menus(array(
-  'social-nav' => __( 'Social Navigation' ),
+  // 'social-nav' => __( 'Social Navigation' ),
   'header-nav' => __( 'Header Navigation' ),
-  'footer-nav' => __( 'Footer Navigation' )
+  // 'footer-nav' => __( 'Footer Navigation' )
 ));
 
   // Sub Menu Navigation
@@ -102,6 +102,9 @@ add_action('after_setup_theme', 'blankTheme_setup');
 
 
 
+
+
+// Design and Code by codeMattCode.com
 
 
 
