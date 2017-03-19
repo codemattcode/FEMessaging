@@ -1,22 +1,12 @@
 /*
 Theme Name: FE Solutions
-Author: WebPrintAudio
-Author URI: http://webprintaudio.com
+Author: codeMattCode.com
+Author URI: http://codemattcode.com
 Version: 1.0
 */
 
-/* helper content */
-/*body {
-  font-family: sans-serif;
-}
-.theme-tips {
-  font-size: 2em;
-}*/
 
-/* live content */
-/* ****************************************************************************************************************************************************************** */
-
-/* gradients  */
+/* GOOGLE FONTS  */
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i");
 @import url("http://fonts.googleapis.com/css?family=Roboto:900,300,100");
 @import url("https://fonts.googleapis.com/css?family=Just+Another+Hand");
@@ -772,4 +762,13 @@ p {
   font-size: 1.375em; 
   font-weight: 300;
 }
+
+
+
+
+
+
+
+
+/* Design and Code by codeMattCode.com */
 
