@@ -1,1 +1,4 @@
-FE Solutions custom Wordpress theme by codeMattcode.com
+# LIVE CHANGES ARE NOW MADE ON THE SERVER DOMAIN RENDERING THIS CODEBASE/REPO OUT OF SYNC.
+## PULL CODEBASE FROM SERVER 
+
+## FE Solutions custom Wordpress theme by codeMattcode.com
