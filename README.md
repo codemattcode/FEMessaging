@@ -13,7 +13,6 @@
 ### Choose 'A Static Page' > Front Page : Home & Posts Page : Blog
 
 ## Wordpress Dashboard > Appearance > Menus
-### 3 Menu placeholders are rendered via the functions.php file. 'Header', 'Footer' and 'Social'
 
 
  
