@@ -294,10 +294,104 @@ html {
 /* ******************************************** */
 /* set maximum wrapper width to $breaker */
 /* ******************************************** */
+
+html {
+  font-size: 62.5%; }
+
+body {
+  font-size: 16px;
+  font-family: "Source Sans Pro", sans-serif, sans-serif;
+  line-height: 1.625;
+  margin: 0;
+  padding: 0;
+  background-color: #fff; }
+
+.wrapper {
+  max-width: 850px;
+  width: 90%; }
+
 @media only screen and (min-width: 850px) {
   .wrapper {
     width: 90%;
     max-width: 850px; } }
+
+h1 {
+  font-family: "Just Another Hand", cursive;
+  font-size: 2em;
+  color: #58595b; }
+  @media screen and (max-width: 850px) {
+    h1 {
+      line-height: 1; } }
+
+h2, h3 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-size: 2.25em;
+  line-height: 1;
+  color: #58595b; }
+  @media screen and (max-width: 850px) {
+    h2, h3 {
+      line-height: 1.2;
+      font-size: 1.8em; } }
+
+h3 {
+  font-size: 1.95em; }
+  @media screen and (max-width: 850px) {
+    h3 {
+      font-size: 1.55em; } }
+
+a:link, a:visited, .bold {
+  font-weight: 300; }
+
+.bold {
+  color: #e70068; }
+
+p {
+  color: #58595b;
+  font-size: 1.375em;
+  font-weight: 300; }
+
+@media screen and (max-width: 850px) {
+  .center-on-mobile {
+    width: 100%;
+    text-align: center; } }
+
+.center {
+  width: 100%;
+  text-align: center; }
+.right {
+  float: right;
+}
+
+.card-download-playbook {
+  text-align: center; }
+  @media screen and (max-width: 850px) {
+    .card-download-playbook {
+      margin-top: 20px; } }
+
+.contact__cta {
+  display: block;
+  width: 150px;
+  text-align: center;
+  font-size: 1em;
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 3px;
+  margin-top: 30px;
+  margin-bottom: 5px; }
+  @media screen and (max-width: 850px) {
+    .contact__cta {
+      margin: 0 auto;
+      margin-top: 30px; } }
+
+.no-block {
+  display: inline-block; }
+
+.cta-pink {
+  border: 1px solid #e70068;
+  color: #e70068; }
+
+
 nav {
   text-align: right; }
 
@@ -660,102 +754,25 @@ h2.portfolio {
     .portfolio-cta-button {
       padding-bottom: 10px; } }
 
-html {
-  font-size: 62.5%; }
 
-body {
-  font-size: 16px;
-  font-family: "Source Sans Pro", sans-serif, sans-serif;
-  line-height: 1.625;
-  margin: 0;
-  padding: 0;
-  background-color: #fff; }
-
-.wrapper {
-  max-width: 850px;
-  width: 90%; }
-
-h1 {
-  font-family: "Just Another Hand", cursive;
-  font-size: 2em;
-  color: #58595b; }
-  @media screen and (max-width: 850px) {
-    h1 {
-      line-height: 1; } }
-
-h2, h3 {
-  font-family: "Roboto", sans-serif;
-  font-weight: 900;
-  font-size: 2.25em;
-  line-height: 1;
-  color: #58595b; }
-  @media screen and (max-width: 850px) {
-    h2, h3 {
-      line-height: 1.2;
-      font-size: 1.8em; } }
-
-h3 {
-  font-size: 1.95em; }
-  @media screen and (max-width: 850px) {
-    h3 {
-      font-size: 1.55em; } }
-
-a:link, a:visited, .bold {
-  font-weight: 300; }
-
-.bold {
-  color: #e70068; }
-
-p {
-  color: #58595b;
-  font-size: 1.375em;
-  font-weight: 300; }
-
-@media screen and (max-width: 850px) {
-  .center-on-mobile {
-    width: 100%;
-    text-align: center; } }
-
-.center {
-  width: 100%;
-  text-align: center; }
-.right {
-  float: right;
-}
-
-.card-download-playbook {
-  text-align: center; }
-  @media screen and (max-width: 850px) {
-    .card-download-playbook {
-      margin-top: 20px; } }
-
-.contact__cta {
-  display: block;
-  width: 150px;
-  text-align: center;
-  font-size: 1em;
-  border: 1px solid white;
-  padding: 10px;
-  border-radius: 3px;
-  margin-top: 30px;
-  margin-bottom: 5px; }
-  @media screen and (max-width: 850px) {
-    .contact__cta {
-      margin: 0 auto;
-      margin-top: 30px; } }
-
-.no-block {
-  display: inline-block; }
-
-.cta-pink {
-  border: 1px solid #e70068;
-  color: #e70068; }
 
 /*  **** CONTACT ******  */
 
 .contact-section{
   margin-bottom: 35px;
 }
+h2.contact {
+  padding-top: 75px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-size: 2.25em;
+  line-height: 1;
+  color: #e70068; }
+  @media screen and (max-width: 850px) {
+    h2.contact {
+      padding-top: 100px;
+      line-height: 1.2;
+      font-size: 1.8em; } }
 
 
 /*  **** BLOG ******  */

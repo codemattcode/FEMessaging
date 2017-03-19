@@ -12,7 +12,7 @@ get_header();
 <div class="wrapper">
 <div class="row">
 <div class="col-12">
-<h2 class="contact">contact</h2>
+<h2 class="contact">Contact</h2>
 </div>
 </div><!-- /row -->
 
