@@ -1,6 +1,6 @@
 
 
-
+<footer>
 <div class="wrapper">
 <div class="row">
 <div class="col-6 center-on-mobile">
@@ -21,7 +21,7 @@
 
 </div><!-- /row -->
 </div><!-- /wrapper -->
-
+</footer>
 
 
 

@@ -10,7 +10,7 @@ get_header();
 ?>
 
 
-<section>
+<section class="portfolio-section">
 <div class="wrapper">
 <div class="row">
 <div class="col-12">

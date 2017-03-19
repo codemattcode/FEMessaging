@@ -642,6 +642,11 @@ img.about-img {
 p.formula {
   font-weight: 900; }
 
+/* ADD SPACE BELOW SECTION TO PUSH DOWN FOOTER DUE TO LIMITED PAGE CONTENT */
+.portfolio-section{
+  margin-bottom: 280px;
+}
+
 h2.portfolio {
   padding-top: 75px;
   color: #e70068; }
@@ -764,9 +769,17 @@ p {
 }
 
 
+/*  **** FOOTER ******  */
 
-
-
+footer{
+  /*position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: 10;
+  */
+  background-color: #F7F7F7;
+  margin-top: 20px;
+}
 
 
 
