@@ -18,7 +18,6 @@
 
 ## Wordpress Dashboard > Settings > General > Site Title 
 
-## Wordpress Dashboard > Settings > Permalinks > Select 'Post Name'
 
 
 
