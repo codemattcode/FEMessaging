@@ -24,9 +24,9 @@ get_header();
   <p class="portfolio-cta-button"><a class="contact__cta cta-pink" href="https://www.linkedin.com/pulse/how-combining-iots-smart-gadgets-machine-learning-could-rina-pathare?trk=prof-post">Click here</a></p>
   </div>
 
-  <div class="col-6"><p><a href="https://media.wix.com/ugd/eb978d_efe757da9ae94debb795ac35467c90c2.pdf">Long form content on millennial branding advise for baby products</a></p>
+  <div class="col-6"><p><a href="http://fesolutions.me/longform.pdf">Long form content on millennial branding advise for baby products</a></p>
   
-  <p class="portfolio-cta-button"><a class="contact__cta cta-pink" href="https://media.wix.com/ugd/eb978d_efe757da9ae94debb795ac35467c90c2.pdf">Click here</a></p>
+  <p class="portfolio-cta-button"><a class="contact__cta cta-pink" href="http://fesolutions.me/longform.pdf">Click here</a></p>
   </div>
 </div><!-- /row -->  
 

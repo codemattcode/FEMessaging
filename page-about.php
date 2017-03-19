@@ -143,7 +143,7 @@ FEROCIOUSLY ENGAGING Messaging</p>
 <p class="fix-spacing">Or get in touch for a free consultation</p> 
 
 ​<p class="about-cta-button">
-<a class="contact__cta no-block" href="#">Click here</a></p>
+<a class="contact__cta no-block" href="mailto:contact@fesolutions.me">Click here</a></p>
 </div>
 
 </div>

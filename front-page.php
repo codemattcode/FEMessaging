@@ -132,7 +132,7 @@ get_header();
 <!-- *************** DOWNLOAD PLAYBOOK CARD ********************* -->
 <div class="col-2 center-on-mobile">
 <div class="solution-grp card-download-playbook">
-<p><img alt="Messaging Playbook Download" src="<?php echo get_template_directory_uri();?>/img/icons-drawn/chart.png"></p>
+<p><a href=""><img alt="Messaging Playbook Download" src="<?php echo get_template_directory_uri();?>/img/icons-drawn/chart.png"></a></p>
 <p class="solution-grp"><a class="solution__push-up" href="">Download free report</a> on how to <a href="">create a Playbook</a></p>
 </div>
 </div><!-- /col-6 -->
