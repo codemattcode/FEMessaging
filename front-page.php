@@ -37,7 +37,7 @@ get_header();
 
 <p class="blues-grp blues__txt">The #1 start-up problem?</p>
 
-<p class="blues-grp blues__txt blues__txt-offkey">Off-key messaging</p>
+<p class="blues-grp blues__txt gblues__txt-offkey">Off-key messaging</p>
 
 <p class="safe">
 <img class="safe-icon" src="<?php echo get_template_directory_uri();?>/img/icons-drawn/safe.png">
@@ -124,7 +124,7 @@ get_header();
 <p class="solution__grp solution__txt--help">Two ways I can help you:</p>
 <p class="solution__grp"><span class="solution__txt solution__txt--number">1. </span><a class="solution__txt--link" href="">Download my free report</a> on how to do this yourself.</p>
 <p class="solution__grp"><span class="solution__txt solution__txt--number">2.</span> Let me do it for you.</p>
-<p class="solution__grp solution__txt--cta">Either way, let's talk. <a class="contact__cta" href="mailto:">Contact Me</a></p>
+<p class="solution__grp solution__txt--cta">Either way, let's talk. <a class="contact__cta" href="mailto:contact@fesolutions.me">Contact Me</a></p>
 </div>
 </div><!-- /col-6 -->
 
@@ -349,7 +349,7 @@ perspective</p>
 
 <div>
 <p class="downloader-txt downloader-get-in-touch__txt">If you want a yes from your customers and investors with a formulated Messaging Playbook.</p> 
-<p class="downloader-txt--link"><a class="contact__cta" href="#">Get in touch</a></p>
+<p class="downloader-txt--link"><a class="contact__cta" href="mailto:contact@fesolutions.me">Get in touch</a></p>
 </div>
 </div><!-- /col-8 -->
 

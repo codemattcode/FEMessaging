@@ -43,7 +43,7 @@ a {
 
 button, input, label, select, textarea {
   overflow: visible;
-  border: 0;
+  border: 1;
   font: inherit;
   -webkit-font-smoothing: inherit;
   letter-spacing: inherit;
@@ -751,7 +751,11 @@ p {
   border: 1px solid #e70068;
   color: #e70068; }
 
+/*  **** CONTACT ******  */
 
+.contact-section{
+  margin-bottom: 500px;
+}
 
 
 /*  **** BLOG ******  */
