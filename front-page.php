@@ -31,17 +31,19 @@ get_header();
 
 <div class="row">
   <div class="col-12 center-on-mobile">
-<p class="blues-grp blues__txt">Every start-up goes through this.</p>
-<p class="blues-grp blues__txt">Lack of quality customers?<br> No money from investors?<br> You're not alone.</p>
-
-<p class="safe">
-
-<img class="safe-icon" src="<?php echo get_template_directory_uri();?>/img/icons-drawn/safe.png">
-
+<p class="blues-grp blues__txt">Every start-up goes through this. Lack of quality customers? 
+<br>No money from investors? You're not alone.
 </p>
 
 <p class="blues-grp blues__txt">The #1 start-up problem?</p>
+
 <p class="blues-grp blues__txt blues__txt-offkey">Off-key messaging</p>
+
+<p class="safe">
+<img class="safe-icon" src="<?php echo get_template_directory_uri();?>/img/icons-drawn/safe.png">
+</p>
+
+
 </div>
   </div><!-- /col-4 -->
 </div><!-- /row -->
